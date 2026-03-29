@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "1092702050769",
+    "project_id": "mesenger-12877",
+    "storage_bucket": "mesenger-12877.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092702050769:android:c934748bfc62118ac368f0",
+        "android_client_info": {
+          "package_name": "com.holyn1k.holymessenger"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRerwkFpwGshbxX-rKYsUpKD3RxpcG8wg"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
